@@ -15,7 +15,4 @@ const createFareMultiplier = function (multiplier){
   function(value){
     return value * multiplier;
   }
-}
-
-
-
+};
