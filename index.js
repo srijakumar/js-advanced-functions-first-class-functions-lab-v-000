@@ -1,7 +1,4 @@
 // Code your solution in this file!
-function(
-
-const returnFirstTwoDrivers(const){
-  const n = length.drivers;
+const returnFirstTwoDrivers= function(drivers){
+  return drivers.slice(0,2);
 }
-){}
