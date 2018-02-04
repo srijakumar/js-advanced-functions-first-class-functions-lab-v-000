@@ -19,7 +19,3 @@ const createFareMultiplier = function (multiplier){
     return value * multiplier;
   };
 };
-
-const fareTripler = createFareMultiplier(2);
-
-const fareTripler = createFareMultiplier (3);
